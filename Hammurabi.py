@@ -1,5 +1,3 @@
-#Start
-
 current_year = 1
 acres = 200
 bushels = 1000
@@ -11,8 +9,6 @@ starve_counter = 0
 import sys
 import random
 import math
-
-#year 1
 
 while current_year < 11:
     def intro():
